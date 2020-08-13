@@ -1,0 +1,372 @@
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    
+    
+    .center-image{
+        
+        text-align: center;
+        margin: 0 auto;
+    }
+    .banner-text {
+	padding-top: 96px;
+	padding-bottom: 221px;
+} 
+.banner-text p {
+	padding: 45px 100px;
+	
+}
+    
+ .banner-text {
+	padding-top: 6px;
+	padding-bottom: 157px;
+}   
+ .service-text {
+	padding-top: 20px;
+}
+    
+    
+    
+    
+    
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+    
+    
+    
+    
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+
+    }
+
+    .navbar-light .navbar-nav .nav-link:after {
+        width: 12%;
+
+    }
+
+    .navbar-nav {
+
+        background: #352626;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+	background: url(../img/img.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.navbar-light .navbar-toggler-icon {
+	background: url(../img/img.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #bb3c3c;
+}
+ .banner-text {
+	
+	padding-top: 81px;
+	padding-bottom: 157px;
+}   
+
+ .about-text h2 {
+	
+	text-align: center;
+	color: #14c830;
+}   
+  .about-text a {
+
+        width: 100%;
+        text-align: center;
+    }
+   
+    #video-part {
+
+        padding: 102px 25px;
+
+    }
+
+    #service-part {
+        padding: 30px 0px;
+    }
+
+ .service-text {
+	padding-top: 51px;
+}
+    
+.service-text {
+	padding-top: 29px;
+} 
+    
+ #about-part {
+	padding: 27px 0px 70px 0px;
+}
+    
+    
+ #about-part {
+	padding: 27px 0px 70px 0px;
+}   
+    
+    
+ .team-angle-left {
+	left: 6%;
+	top: 80%;
+	
+}
+    
+ .team-angle-right {
+	right: 16%;
+	top: 80%;
+	
+}   
+  
+ .abt-sub-area .get-input-text {
+	
+	padding: 18px;
+	
+}   
+ .abt-sub-area .sub-btn-icon {
+	font-size: 18px;
+	padding: 0px 2px;
+}   
+ .team-text-top p {
+
+	padding-bottom: 38px;
+}   
+.team-text-bottom {
+
+	padding-top: 97px;
+	
+    }
+   #team-part {
+	
+	padding: 62px 0px;
+	
+} 
+ 
+ .project-bottom a {
+	
+	width: 100%;
+}   
+.project-bottom a {
+	
+	width: 100%;
+	display: inline-block;
+} 
+  
+ .center-image{
+        
+        text-align: center;
+        margin: 0 auto;
+    }   
+.abt-location-area .location-title {
+	
+	text-align: center;
+}
+  
+ .abt-area .footer-abt-text {
+	
+	text-align: center;
+}   
+.abt-location-area .location-details {
+
+	padding-left: 191px;
+}    
+    
+.abt-location-area .mb-number {
+	text-align: center;
+}    
+  
+.abt-sub-area .sub-title {
+	padding-bottom: 8px;
+	padding-left: 203px;
+}    
+    
+ .abt-sub-area .get-input-text {
+	padding: 16px;
+}
+.abt-sub-area .overwrite-sub-btn-feild {
+	padding: 1px 20px 8px 17px;
+
+}    
+    
+ #footer-area {
+	padding: 10px 0px 72px 0px;
+	
+}   
+ #footer-area {
+	padding: 61px 0px 72px 0px;
+}   
+    
+}
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+
+    }
+
+    .navbar-light .navbar-nav .nav-link:after {
+        width: 12%;
+
+    }
+
+    .navbar-nav {
+
+        background: #352626;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background: url(../img/top.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .banner-text {
+
+        padding-top: 111px;
+        padding-bottom: 195px;
+    }
+
+    .about-text h2 {
+        margin: 15px;
+        text-align: center;
+        color: #280495;
+    }
+
+    .navbar-light .navbar-toggler {
+
+        background: #fff;
+    }
+
+    .banner-text {
+        padding-top: 81px;
+        padding-bottom: 152px;
+    }
+
+    .about-text a {
+
+        width: 100%;
+        text-align: center;
+    }
+
+    #video-part {
+
+        padding: 102px 25px;
+
+    }
+
+    #service-part {
+        padding: 30px 0px;
+    }
+
+
+    .service-text {
+        padding-top: 42px;
+    }
+
+    .service-text {
+        padding-top: 20px;
+    }
+
+    .project-top-left h3 {
+
+        text-align: center;
+    }
+
+    .project-bottom {
+        padding-top: 54px;
+    }
+
+    .team-angle-left {
+
+        left: 17%;
+
+    }
+
+    .team-angle-right {
+
+        right: 24%;
+
+    }
+
+    .team-angle-left {
+
+        left: 16%;
+        top: 78%;
+
+    }
+
+    .team-angle-right {
+
+        right: 24%;
+        top: 78%;
+
+    }
+
+    .team-slider-text p {
+
+        text-align: center;
+    }
+
+    .abt-location-area .location-title {
+	text-align: center;
+}
+    
+    
+    
+}
+
+
+    /* Large devices (desktops, 992px and up)*/
+    @media (min-width: 992px) and (max-width: 1199.98px) {
+
+        .team-arrow-left {
+
+            left: 22%;
+
+        }
+
+
+        .team-arrow-right {
+
+            left: 77%;
+
+        }
+
+        .footer-top-wrap {
+            font-size: 15px;
+
+
+        }
+
+
+
+
+        .abt-sub-area .get-input-text {
+            font-size: 13px;
+            padding: 10px;
+            background: transparent;
+            color: whitesmoke;
+            border: 1px solid white;
+
+
+        }
+
+        .abt-sub-area .overwrite-sub-btn-feild {
+
+            padding: 3px 20px 4px 20px;
+
+        }
+
+
+
+
+
+
+        /* Extra large devices (large desktops, 1200px and up)*/
+        @media (min-width: 1200px) {}
